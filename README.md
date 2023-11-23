@@ -1,4 +1,4 @@
-# Javascript-Calculator 🖩
+# Javascript-Calculator
 
 Hey!👋 This is my first Javascript project, enjoy :)
 
